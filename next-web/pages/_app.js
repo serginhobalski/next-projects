@@ -1,3 +1,4 @@
+import './css/exercicio1.module.css'
 import '../styles/globals.css'
 
 function MyApp({ Component, pageProps }) {

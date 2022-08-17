@@ -1,0 +1,21 @@
+.divFlex {
+    text-align: center;
+}
+
+.titulo {
+    margin-top: 30px;
+    text-align: center;   
+}
+
+.btn {
+    background-color: #f25316;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    border-color: transparent;
+    border-radius: 10px;
+} .btn:hover {
+    background-color: transparent;
+    border-color: #f25316;
+    color: #f25316;
+}
